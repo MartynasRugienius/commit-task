@@ -6,16 +6,20 @@ body {
 
 .red {
     background-color: red;
+    width: 50%;
 }
 
 .blue {
     background-color: blue;
+    width: 50%;
 }
 
 .yellow {
     background-color: yellow;
+    width: 50%;
 }
 
 .purple {
     background-color: purple;
+    width: 50%;
 }
